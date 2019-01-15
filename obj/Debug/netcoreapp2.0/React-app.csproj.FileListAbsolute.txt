@@ -1,0 +1,11 @@
+D:\Work\React-app\React-app\bin\Debug\netcoreapp2.0\React-app.deps.json
+D:\Work\React-app\React-app\bin\Debug\netcoreapp2.0\React-app.runtimeconfig.json
+D:\Work\React-app\React-app\bin\Debug\netcoreapp2.0\React-app.runtimeconfig.dev.json
+D:\Work\React-app\React-app\bin\Debug\netcoreapp2.0\React-app.dll
+D:\Work\React-app\React-app\bin\Debug\netcoreapp2.0\React-app.pdb
+D:\Work\React-app\React-app\obj\Debug\netcoreapp2.0\React-app.csprojAssemblyReference.cache
+D:\Work\React-app\React-app\obj\Debug\netcoreapp2.0\React-app.csproj.CoreCompileInputs.cache
+D:\Work\React-app\React-app\obj\Debug\netcoreapp2.0\React-app.AssemblyInfoInputs.cache
+D:\Work\React-app\React-app\obj\Debug\netcoreapp2.0\React-app.AssemblyInfo.cs
+D:\Work\React-app\React-app\obj\Debug\netcoreapp2.0\React-app.dll
+D:\Work\React-app\React-app\obj\Debug\netcoreapp2.0\React-app.pdb
